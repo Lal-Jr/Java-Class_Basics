@@ -1,2 +1,2 @@
 # Java-Class_Basics
-Java Basics repo done with the usage of Classes and Objects
+Java Basics repositories done with the usage of Classes and Objects
